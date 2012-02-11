@@ -1,0 +1,23 @@
+
+Lisboa Barcelona
+camioneta 333k 3h03 333e 3h30 3h45 3h20 3h00
+aviao 666k 6h06 666e 6h30 6h10
+comboio 777k 00h25 7777e 17h07
+,
+Porto Madrid
+aviao 111k 1h11 1111e 1h11 11h11 10h11 12h11
+comboio 222k 2h22 222e 2h32 2h52
+,
+aviao
+Porto Lisboa 2500k 3h30 4020e 9h30 16h20
+Porto Lisboa 500k 1h00 250e 6h30 11h45 14h20 18h00
+,
+comboio
+Porto Lisboa 300k 3h30 501e 8h45 14h15
+Porto Madrid 600k 5h15 105e 5h30 13h30
+,
+Lisboa Madrid
+comboio 1200k 3h00 289e 34h45 23h03
+,
+Porto Lisboa
+aviao 999k 2h00 1000e 12h00
